@@ -23,7 +23,7 @@ body {
 }
 
 .cabecalho {
-    padding: 2% 0% 0% 15%;
+    padding: 3.5% 0% 0% 15%;
 }
 
 .cabecalho_menu {
@@ -112,7 +112,6 @@ body {
 .apresentacao_links_botoes:hover {
     background-color: var(--cor-hover);
 }
-
 
 .apresentacao_imagem {
     width: 50%;
