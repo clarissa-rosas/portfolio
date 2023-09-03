@@ -1,6 +1,6 @@
 # Portfólio
 
-Olá, bem vindo ao meu projeto de portfólio!
+Olá, bem-vindo ao meu projeto de portfólio!
 
 ![image](https://github.com/clarissa-rosas/portfolio/assets/143567920/cd9d83a6-a08e-48fd-b850-a847e7ee1974)
 
